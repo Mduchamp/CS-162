@@ -1,0 +1,19 @@
+slave*
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+proj1/
+proj2/
+
+#Eclipse Stuff#
+.classpath
+.project
+.settings/
+
+#Macs System Files
+*.DS_Store
